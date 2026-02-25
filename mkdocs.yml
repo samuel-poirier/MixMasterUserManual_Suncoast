@@ -1,7 +1,7 @@
-site_name: MixMaster WCS User Manual
+site_name: MixMaster WECS User Manual
 site_description: Automated Order Preparation Solutions - MixMaster Warehouse Control System Documentation
-# site_url: https://philcotnoir.github.io/MixMasterUserManual_Suncoast/
-# repo_url: https://github.com/philcotnoir/MixMasterUserManual_Suncoast/
+site_url: https://philcotnoir.github.io/MixMasterUserManual_Suncoast/
+repo_url: https://github.com/philcotnoir/MixMasterUserManual_Suncoast/
 
 # This tells MkDocs where your markdown files are
 docs_dir: docs
